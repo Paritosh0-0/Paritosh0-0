@@ -6,4 +6,5 @@
 Here are some ideas to get you started:
 
 I like to work on android projects
+I like to code
 
